@@ -1,0 +1,34 @@
+## 📄 Privacy Policy for Poolki 2 Bot
+
+**Effective Date:** 02/02/2024
+
+Poolki 2 is a moderation and logging bot used on Discord servers. This Privacy Policy outlines how we collect, use, and store data.
+
+### 1. What data we collect
+
+* **User Messages** (for logging deleted/edited messages, moderation, and filters)
+* **User IDs** and **Usernames**
+* **Timestamps** of message activity
+* **Server Events** such as message edits/deletes, member join/leave, and role updates
+
+### 2. Why we collect this data
+
+* To provide moderation features (anti-spam, keyword alerts, logs)
+* To protect communities and enforce server rules
+* To support server admins in monitoring activity
+
+### 3. Where data is stored
+
+Data is securely stored off-platform (outside of Discord) on our private server/database with restricted access. No data is shared with third parties.
+
+### 4. Opt-Out
+
+Users who do not wish to have their messages logged can contact the server admin or bot owner to be excluded where technically possible.
+
+### 5. No AI/ML Training
+
+We do **not** use any user data for AI or machine learning training.
+
+### 6. Contact
+
+For questions or requests, contact the bot owner via Discord.
